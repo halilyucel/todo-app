@@ -1,6 +1,6 @@
 ### Project Setup
 ###### (Not including the dev environment)
-1. Run `sudo git clone https://github.com/halilyucel/task-app.git`
+1. Run `sudo git clone https://github.com/halilyucel/todo-app.git`
 2. Create a MySQL database for the project
 3. From the projects root run `cp .env.example .env`
 4. Configure your `.env`
